@@ -1,1 +1,0 @@
-import{d as s,r as t,c as a,a as o,w as u,F as _,o as r,b as l}from"./index.2bf19f25.js";const p=l("\u6211\u662F\u81EA\u5B9A\u4E49\u6309\u94AE"),k=s({setup(i){const e=()=>{console.log(12321)};return(m,d)=>{const n=t("yc-button"),c=t("yc-input");return r(),a(_,null,[o(n,{onClick:e},{default:u(()=>[p]),_:1}),o(c)],64)}}});export{k as default};
