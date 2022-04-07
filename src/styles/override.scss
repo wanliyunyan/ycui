@@ -1,0 +1,11 @@
+/**
+  这里是全局覆盖样式
+  用法：覆盖ant的样式
+ */
+
+body {
+}
+.ant-form-horizontal .ant-form-item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
